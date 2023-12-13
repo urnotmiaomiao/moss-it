@@ -35,21 +35,21 @@ https://theory.stanford.edu/~aiken/moss/
 4. cp-files
 5. moss-it (use it in the folder `unzip`)
 
+# 一些笔记
+## 解压缩
 
-# 解压缩
-
-## zip
+### zip
 
 [参考链接](https://blog.csdn.net/shenyunsese/article/details/17556089)
 
-### 压缩 zip
+#### 压缩 zip
 
 ```bash
 zip -r myfile.zip ./*
 # 压缩当前目录下所有文件&文件夹到 myfile.zip
 ```
 
-### 解压缩 unzip
+#### 解压缩 unzip
 ```bash
 unzip -o -d [unzip-to-directory] [to-be-unzipped-file]
 ```
@@ -59,11 +59,11 @@ unzip -o -d [unzip-to-directory] [to-be-unzipped-file]
 
 
 
-## tar
+### tar
 
 [参考链接](https://www.cnblogs.com/cursorhu/p/5891699.html)
 
-### `tar.gz`
+#### `tar.gz`
 
 ```bash
 tar -zxvf xxx.tar.gz
@@ -74,7 +74,7 @@ tar -zxvf xxx.tar.gz
 - v: **v**erbose 详细信息
 - f: **f**ile(file=archieve) 文件
 
-### `tar.bz2
+#### `tar.bz2
 
 ```bash
 tar -jxvf xxx.tar.bz2
