@@ -1,5 +1,7 @@
 # moss-it
 
+运行环境：Ubuntu
+
 ## 准备工作
 
 https://theory.stanford.edu/~aiken/moss/
@@ -34,12 +36,11 @@ https://theory.stanford.edu/~aiken/moss/
 5. moss-it (use it in the folder `unzip`)
 
 
-[参考链接](https://blog.csdn.net/shenyunsese/article/details/17556089)
-
-
 # 解压缩
 
 ## zip
+
+[参考链接](https://blog.csdn.net/shenyunsese/article/details/17556089)
 
 ### 压缩 zip
 
@@ -57,9 +58,10 @@ unzip -o -d [unzip-to-directory] [to-be-unzipped-file]
 `-d [unzip-to-directory]` : 解压到指定位置 
 
 
-[参考链接](https://www.cnblogs.com/cursorhu/p/5891699.html)
 
 ## tar
+
+[参考链接](https://www.cnblogs.com/cursorhu/p/5891699.html)
 
 ### `tar.gz`
 
