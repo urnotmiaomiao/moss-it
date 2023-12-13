@@ -10,7 +10,7 @@ https://theory.stanford.edu/~aiken/moss/
 2. get the reply email
 3. do to moss similarity detection
 
-- [ ] moss for AOS Project 1 查重
+- [ ] moss for Project 查重
 	- [x] 1. download register moss
 	- [x] 2. download assignments files
 	- [x] 3. 脚本解压缩
