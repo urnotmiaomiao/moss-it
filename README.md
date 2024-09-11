@@ -30,10 +30,14 @@ https://theory.stanford.edu/~aiken/moss/
 ## 流程 (to run scripts)
 
 1. replace-space
-2. format-name
-3. unzip
-4. cp-files
-5. moss-it (use it in the folder `unzip`)
+`. replace-space [directory]`
+3. format-name
+`. format-name [directory] [file type: "zip"|"rar"|...]`
+5. unzip
+`. unzip [directory] [file type: "zip"|"rar"|...]`
+6. cp-files
+`. cp_files`
+8. moss-it (use it in the folder `unzip`)
 
 # 一些笔记
 ## 解压缩
